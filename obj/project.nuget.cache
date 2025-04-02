@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dr1OV67Q95c=",
+  "success": true,
+  "projectFilePath": "c:\\aiapp1\\datastreamer\\datastreamer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\confluent.kafka\\2.9.0\\confluent.kafka.2.9.0.nupkg.sha512",
+    "C:\\Users\\AG_2021SER01\\.nuget\\packages\\librdkafka.redist\\2.8.0\\librdkafka.redist.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
